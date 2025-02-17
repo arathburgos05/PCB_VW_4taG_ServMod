@@ -1,0 +1,1270 @@
+Info: Procesando el símbolo 'AFF2:Display_7Segment:7SegmentLED_LTS6760_LTS6780'.
+Info: Procesando el símbolo 'R3:Resistor_SMD:R_0603_1608Metric'.
+Info: Procesando el símbolo 'C3:Capacitor_SMD:C_0603_1608Metric'.
+Info: Procesando el símbolo 'C7:Capacitor_SMD:C_0603_1608Metric'.
+Info: Procesando el símbolo 'C14:Capacitor_SMD:C_0603_1608Metric'.
+Info: Procesando el símbolo 'Q1:Package_TO_SOT_SMD:SOT-23'.
+Info: Procesando el símbolo 'C11:Capacitor_SMD:C_0603_1608Metric'.
+Info: Procesando el símbolo 'C21:Capacitor_SMD:C_0603_1608Metric'.
+Info: Procesando el símbolo 'D11:LED_SMD:LED_0805_2012Metric'.
+Info: Procesando el símbolo 'D13:LED_THT:LED_D5.0mm'.
+Info: Procesando el símbolo 'R6:Resistor_SMD:R_0603_1608Metric'.
+Info: Procesando el símbolo 'D5:LED_SMD:LED_0805_2012Metric'.
+Info: Procesando el símbolo 'J4:Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical'.
+Info: Procesando el símbolo 'R5:Resistor_SMD:R_0603_1608Metric'.
+Info: Procesando el símbolo 'C4:Capacitor_SMD:C_0603_1608Metric'.
+Info: Procesando el símbolo 'C8:Capacitor_SMD:C_0603_1608Metric'.
+Info: Procesando el símbolo 'BT1:Battery:BatteryHolder_Keystone_1042_1x18650'.
+Info: Procesando el símbolo 'D15:LED_THT:LED_D5.0mm'.
+Info: Procesando el símbolo 'J7:Own-Footprints:MicroSD_Memory'.
+Info: Procesando el símbolo 'C15:Capacitor_SMD:C_0603_1608Metric'.
+Info: Procesando el símbolo 'C19:Capacitor_SMD:C_0603_1608Metric'.
+Info: Procesando el símbolo 'C12:Capacitor_SMD:C_0603_1608Metric'.
+Info: Procesando el símbolo 'R4:Resistor_SMD:R_0603_1608Metric'.
+Info: Procesando el símbolo 'J10:Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical'.
+Info: Procesando el símbolo 'C22:Capacitor_SMD:C_0603_1608Metric'.
+Info: Procesando el símbolo 'R2:Resistor_SMD:R_0603_1608Metric'.
+Info: Procesando el símbolo 'C5:Capacitor_SMD:C_0603_1608Metric'.
+Info: Procesando el símbolo 'J6:Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical'.
+Info: Procesando el símbolo 'BAR1:Display:HDSP-4830'.
+Info: Procesando el símbolo 'C1:Capacitor_SMD:C_0603_1608Metric'.
+Info: Procesando el símbolo 'C9:Capacitor_SMD:C_0603_1608Metric'.
+Info: Procesando el símbolo 'J3:Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical'.
+Info: Procesando el símbolo 'D12:LED_THT:LED_D5.0mm'.
+Info: Procesando el símbolo 'J9:Connector_IDC:IDC-Header_2x04_P2.54mm_Horizontal'.
+Info: Procesando el símbolo 'D10:LED_SMD:LED_0805_2012Metric'.
+Info: Procesando el símbolo 'C17:Capacitor_SMD:C_0603_1608Metric'.
+Info: Procesando el símbolo 'J12:Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical'.
+Info: Procesando el símbolo 'D14:LED_THT:LED_D5.0mm'.
+Info: Procesando el símbolo 'C13:Capacitor_SMD:C_0603_1608Metric'.
+Info: Procesando el símbolo 'C20:Capacitor_SMD:C_0603_1608Metric'.
+Info: Procesando el símbolo 'C6:Capacitor_SMD:C_0603_1608Metric'.
+Info: Procesando el símbolo 'J13:Connector_USB:USB_C_Receptacle_G-Switch_GT-USB-7010ASV'.
+Info: Procesando el símbolo 'C2:Capacitor_SMD:C_0603_1608Metric'.
+Info: Procesando el símbolo 'C10:Capacitor_SMD:C_0603_1608Metric'.
+Info: Procesando el símbolo 'J2:Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical'.
+Info: Procesando el símbolo 'C23:Capacitor_SMD:C_0603_1608Metric'.
+Info: Procesando el símbolo 'J11:Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical'.
+Info: Procesando el símbolo 'J5:Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical'.
+Info: Procesando el símbolo 'J1:Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical'.
+Info: Procesando el símbolo 'R1:Resistor_SMD:R_0603_1608Metric'.
+Info: Procesando el símbolo 'R7:Resistor_SMD:R_0603_1608Metric'.
+Info: Procesando el símbolo 'C18:Capacitor_SMD:C_0603_1608Metric'.
+Info: Procesando el símbolo 'R8:Resistor_SMD:R_0603_1608Metric'.
+Info: Procesando el símbolo 'R9:Resistor_SMD:R_0603_1608Metric'.
+Info: Procesando el símbolo 'R10:Resistor_SMD:R_0603_1608Metric'.
+Info: Procesando el símbolo 'R11:Resistor_SMD:R_0603_1608Metric'.
+Info: Procesando el símbolo 'R12:Resistor_SMD:R_0603_1608Metric'.
+Info: Procesando el símbolo 'R13:Resistor_SMD:R_0603_1608Metric'.
+Info: Procesando el símbolo 'R14:Resistor_SMD:R_0603_1608Metric'.
+Info: Procesando el símbolo 'R15:Resistor_SMD:R_0603_1608Metric'.
+Info: Procesando el símbolo 'R16:Resistor_SMD:R_0603_1608Metric'.
+Info: Procesando el símbolo 'R17:Resistor_SMD:R_0603_1608Metric'.
+Info: Procesando el símbolo 'R18:Resistor_SMD:R_0603_1608Metric'.
+Info: Procesando el símbolo 'R19:Resistor_SMD:R_0603_1608Metric'.
+Info: Procesando el símbolo 'R20:Resistor_SMD:R_0603_1608Metric'.
+Info: Procesando el símbolo 'R21:Resistor_SMD:R_0603_1608Metric'.
+Info: Procesando el símbolo 'R22:Resistor_SMD:R_0603_1608Metric'.
+Info: Procesando el símbolo 'R23:Resistor_SMD:R_0603_1608Metric'.
+Info: Procesando el símbolo 'R24:Resistor_SMD:R_0603_1608Metric'.
+Info: Procesando el símbolo 'R25:Resistor_SMD:R_0603_1608Metric'.
+Info: Procesando el símbolo 'R26:Resistor_SMD:R_0603_1608Metric'.
+Info: Procesando el símbolo 'R27:Resistor_SMD:R_0603_1608Metric'.
+Info: Procesando el símbolo 'R28:Resistor_SMD:R_0603_1608Metric'.
+Info: Procesando el símbolo 'R29:Resistor_SMD:R_0603_1608Metric'.
+Info: Procesando el símbolo 'R30:Resistor_SMD:R_0603_1608Metric'.
+Info: Procesando el símbolo 'R31:Resistor_SMD:R_0603_1608Metric'.
+Info: Procesando el símbolo 'R32:Resistor_SMD:R_0603_1608Metric'.
+Info: Procesando el símbolo 'R33:Resistor_SMD:R_0603_1608Metric'.
+Info: Procesando el símbolo 'R34:Resistor_SMD:R_0603_1608Metric'.
+Info: Procesando el símbolo 'RA1:Resistor_SMD:R_0603_1608Metric'.
+Info: Procesando el símbolo 'RB1:Resistor_SMD:R_0603_1608Metric'.
+Info: Procesando el símbolo 'RC1:Resistor_SMD:R_0603_1608Metric'.
+Info: Procesando el símbolo 'RD1:Resistor_SMD:R_0603_1608Metric'.
+Info: Procesando el símbolo 'RE1:Resistor_SMD:R_0603_1608Metric'.
+Info: Procesando el símbolo 'RF1:Resistor_SMD:R_0603_1608Metric'.
+Info: Procesando el símbolo 'RG1:Resistor_SMD:R_0603_1608Metric'.
+Info: Procesando el símbolo 'SW1:Button_Switch_THT:SW_PUSH_6mm'.
+Info: Procesando el símbolo 'SW2:Button_Switch_THT:SW_PUSH_6mm'.
+Info: Procesando el símbolo 'SW4:Button_Switch_THT:SW_PUSH_6mm'.
+Info: Procesando el símbolo 'U1:Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.29x3mm'.
+Info: Procesando el símbolo 'U2:Package_TO_SOT_SMD:SOT-23-6_Handsoldering'.
+Info: Procesando el símbolo 'U3:Package_SO:TSSOP-8_4.4x3mm_P0.65mm'.
+Info: Procesando el símbolo 'U4:Package_TO_SOT_SMD:SOT-223-3_TabPin2'.
+Info: Procesando el símbolo 'U5:Package_QFP:LQFP-48_7x7mm_P0.5mm'.
+Info: Procesando el símbolo 'Y1:Crystal:Crystal_SMD_ECS_CSM3X-2Pin_7.6x4.1mm'.
+Agregar red Net-(BAR1-K-Pad17).
+BAR1 pin 18 conectado a Net-(BAR1-K-Pad17).
+BAR1 pin 17 conectado a Net-(BAR1-K-Pad17).
+Agregar red LED_B99.
+BAR1 pin 2 conectado a LED_B99.
+Agregar red LED_B75.
+BAR1 pin 3 conectado a LED_B75.
+Agregar red LED_B25.
+BAR1 pin 7 conectado a LED_B25.
+BAR1 pin 6 conectado a LED_B50.
+Agregar red Net-(BAR1-K-Pad11).
+BAR1 pin 11 conectado a Net-(BAR1-K-Pad11).
+Agregar red Net-(BAR1-K-Pad19).
+BAR1 pin 19 conectado a Net-(BAR1-K-Pad19).
+BAR1 pin 12 conectado a Net-(BAR1-K-Pad11).
+BAR1 pin 1 conectado a LED_B99.
+Agregar red Net-(BAR1-K-Pad13).
+BAR1 pin 14 conectado a Net-(BAR1-K-Pad13).
+BAR1 pin 13 conectado a Net-(BAR1-K-Pad13).
+BAR1 pin 8 conectado a LED_B25.
+BAR1 pin 4 conectado a LED_B75.
+BAR1 pin 20 conectado a Net-(BAR1-K-Pad19).
+Agregado BT1 (huella 'Battery:BatteryHolder_Keystone_1042_1x18650').
+Indicador de referencia cambiado de REF** a BT1.
+Valor BT1 cambiado de BatteryHolder_Keystone_1042_1x18650 a Battery.
+Asociación de símbolos BT1 actualizada de  a /d395efa5-1d13-4880-9dff-ec1d515442e6.
+Actualizar campos BT1.
+Se actualizó el nombre de la hoja BT1 a 'Raíz'.
+Se actualizó el archivo de hoja BT1 a 'VW_ServMode_4taGen.kicad_sch'.
+Agregar red TP_B-.
+BT1 pin 2 conectado a TP_B-.
+Agregar red BAT+.
+BT1 pin 1 conectado a BAT+.
+Agregado C1 (huella 'Capacitor_SMD:C_0603_1608Metric').
+Indicador de referencia cambiado de REF** a C1.
+Valor C1 cambiado de C_0603_1608Metric a C10U.
+Asociación de símbolos C1 actualizada de  a /ee1cf1cc-ab8b-4e67-be12-aea62b9937b5.
+Actualizar campos C1.
+Se actualizó el nombre de la hoja C1 a 'Raíz'.
+Se actualizó el archivo de hoja C1 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de C1 a 'C_*'.
+Agregar red +3V3.
+C1 pin 2 conectado a +3V3.
+Agregar red GND.
+C1 pin 1 conectado a GND.
+Agregado C2 (huella 'Capacitor_SMD:C_0603_1608Metric').
+Indicador de referencia cambiado de REF** a C2.
+Valor C2 cambiado de C_0603_1608Metric a C100N.
+Asociación de símbolos C2 actualizada de  a /af4dbf6f-edb8-4ff6-b2f7-a71360e6cde0.
+Actualizar campos C2.
+Se actualizó el nombre de la hoja C2 a 'Raíz'.
+Se actualizó el archivo de hoja C2 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de C2 a 'C_*'.
+C2 pin 1 conectado a GND.
+C2 pin 2 conectado a +3V3.
+Agregado C3 (huella 'Capacitor_SMD:C_0603_1608Metric').
+Indicador de referencia cambiado de REF** a C3.
+Valor C3 cambiado de C_0603_1608Metric a C100N.
+Asociación de símbolos C3 actualizada de  a /d70b420f-410d-46e0-954d-7417a75c06a8.
+Actualizar campos C3.
+Se actualizó el nombre de la hoja C3 a 'Raíz'.
+Se actualizó el archivo de hoja C3 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de C3 a 'C_*'.
+C3 pin 1 conectado a TP_B-.
+Agregar red Net-(U2-VCC).
+C3 pin 2 conectado a Net-(U2-VCC).
+Agregado C4 (huella 'Capacitor_SMD:C_0603_1608Metric').
+Indicador de referencia cambiado de REF** a C4.
+Valor C4 cambiado de C_0603_1608Metric a C10U.
+Asociación de símbolos C4 actualizada de  a /94d74c76-fdac-48ec-b4c4-4179553e4c9f.
+Actualizar campos C4.
+Se actualizó el nombre de la hoja C4 a 'Raíz'.
+Se actualizó el archivo de hoja C4 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de C4 a 'C_*'.
+C4 pin 1 conectado a GND.
+C4 pin 2 conectado a BAT+.
+Agregado C5 (huella 'Capacitor_SMD:C_0603_1608Metric').
+Indicador de referencia cambiado de REF** a C5.
+Valor C5 cambiado de C_0603_1608Metric a C100N.
+Asociación de símbolos C5 actualizada de  a /b0419f6d-eed8-48b9-945d-25f14587bf04.
+Actualizar campos C5.
+Se actualizó el nombre de la hoja C5 a 'Raíz'.
+Se actualizó el archivo de hoja C5 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de C5 a 'C_*'.
+Agregar red TP_IN.
+C5 pin 2 conectado a TP_IN.
+C5 pin 1 conectado a GND.
+Agregado C6 (huella 'Capacitor_SMD:C_0603_1608Metric').
+Indicador de referencia cambiado de REF** a C6.
+Valor C6 cambiado de C_0603_1608Metric a C10U.
+Asociación de símbolos C6 actualizada de  a /135e8b73-2779-4843-a363-99efdc754a93.
+Actualizar campos C6.
+Se actualizó el nombre de la hoja C6 a 'Raíz'.
+Se actualizó el archivo de hoja C6 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de C6 a 'C_*'.
+Agregar red VIN+.
+C6 pin 2 conectado a VIN+.
+C6 pin 1 conectado a GND.
+Agregado C7 (huella 'Capacitor_SMD:C_0603_1608Metric').
+Indicador de referencia cambiado de REF** a C7.
+Valor C7 cambiado de C_0603_1608Metric a C100N.
+Asociación de símbolos C7 actualizada de  a /fb0379cb-be1c-4bb4-a2c1-01b445b29f53.
+Actualizar campos C7.
+Se actualizó el nombre de la hoja C7 a 'Raíz'.
+Se actualizó el archivo de hoja C7 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de C7 a 'C_*'.
+C7 pin 1 conectado a GND.
+C7 pin 2 conectado a VIN+.
+Agregado C8 (huella 'Capacitor_SMD:C_0603_1608Metric').
+Indicador de referencia cambiado de REF** a C8.
+Valor C8 cambiado de C_0603_1608Metric a C10U.
+Asociación de símbolos C8 actualizada de  a /fbe8f2ae-7c61-42f5-85d0-e4bc389e2f14.
+Actualizar campos C8.
+Se actualizó el nombre de la hoja C8 a 'Raíz'.
+Se actualizó el archivo de hoja C8 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de C8 a 'C_*'.
+C8 pin 2 conectado a +3V3.
+C8 pin 1 conectado a GND.
+Agregado C9 (huella 'Capacitor_SMD:C_0603_1608Metric').
+Indicador de referencia cambiado de REF** a C9.
+Valor C9 cambiado de C_0603_1608Metric a C100N.
+Asociación de símbolos C9 actualizada de  a /420405fc-61c8-483e-9964-3ade4ff5fa52.
+Actualizar campos C9.
+Se actualizó el nombre de la hoja C9 a 'Raíz'.
+Se actualizó el archivo de hoja C9 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de C9 a 'C_*'.
+C9 pin 2 conectado a +3V3.
+C9 pin 1 conectado a GND.
+Agregado C10 (huella 'Capacitor_SMD:C_0603_1608Metric').
+Indicador de referencia cambiado de REF** a C10.
+Valor C10 cambiado de C_0603_1608Metric a C4U7.
+Asociación de símbolos C10 actualizada de  a /c7349442-dfb0-4186-84eb-6358538cbbf9.
+Actualizar campos C10.
+Se actualizó el nombre de la hoja C10 a 'Raíz'.
+Se actualizó el archivo de hoja C10 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de C10 a 'C_*'.
+Agregar red DO_3V3.
+C10 pin 2 conectado a DO_3V3.
+C10 pin 1 conectado a GND.
+Agregado C11 (huella 'Capacitor_SMD:C_0603_1608Metric').
+Indicador de referencia cambiado de REF** a C11.
+Valor C11 cambiado de C_0603_1608Metric a C4U7.
+Asociación de símbolos C11 actualizada de  a /9c4fb7f0-d9e3-45e2-9c7d-eb2761bd8ac0.
+Actualizar campos C11.
+Se actualizó el nombre de la hoja C11 a 'Raíz'.
+Se actualizó el archivo de hoja C11 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de C11 a 'C_*'.
+Agregar red Net-(Q1-G).
+C11 pin 1 conectado a Net-(Q1-G).
+C11 pin 2 conectado a +3V3.
+Agregado C12 (huella 'Capacitor_SMD:C_0603_1608Metric').
+Indicador de referencia cambiado de REF** a C12.
+Valor C12 cambiado de C_0603_1608Metric a C100N.
+Asociación de símbolos C12 actualizada de  a /41a18d61-8292-4597-b9c0-2f12c8acce06.
+Actualizar campos C12.
+Se actualizó el nombre de la hoja C12 a 'Raíz'.
+Se actualizó el archivo de hoja C12 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de C12 a 'C_*'.
+Agregar red +3.3V.
+C12 pin 2 conectado a +3.3V.
+Agregar red PUSH_IN.
+C12 pin 1 conectado a PUSH_IN.
+Agregado C13 (huella 'Capacitor_SMD:C_0603_1608Metric').
+Indicador de referencia cambiado de REF** a C13.
+Valor C13 cambiado de C_0603_1608Metric a C100N.
+Asociación de símbolos C13 actualizada de  a /c3aa5a34-5db6-49d2-8b90-7c0b23007d1b.
+Actualizar campos C13.
+Se actualizó el nombre de la hoja C13 a 'Raíz'.
+Se actualizó el archivo de hoja C13 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de C13 a 'C_*'.
+C13 pin 2 conectado a +3.3V.
+Agregar red PUSH_OUT.
+C13 pin 1 conectado a PUSH_OUT.
+Agregado C14 (huella 'Capacitor_SMD:C_0603_1608Metric').
+Indicador de referencia cambiado de REF** a C14.
+Valor C14 cambiado de C_0603_1608Metric a C100N.
+Asociación de símbolos C14 actualizada de  a /bd49db61-7410-4efa-b19c-6e671b9fbc49.
+Actualizar campos C14.
+Se actualizó el nombre de la hoja C14 a 'Raíz'.
+Se actualizó el archivo de hoja C14 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de C14 a 'C_*'.
+C14 pin 2 conectado a +3V3.
+C14 pin 1 conectado a GND.
+Agregado C15 (huella 'Capacitor_SMD:C_0603_1608Metric').
+Indicador de referencia cambiado de REF** a C15.
+Valor C15 cambiado de C_0603_1608Metric a C100N.
+Asociación de símbolos C15 actualizada de  a /9bd776d5-7768-41ea-ba34-dcf19d212347.
+Actualizar campos C15.
+Se actualizó el nombre de la hoja C15 a 'Raíz'.
+Se actualizó el archivo de hoja C15 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de C15 a 'C_*'.
+C15 pin 2 conectado a +3V3.
+C15 pin 1 conectado a GND.
+Agregado C17 (huella 'Capacitor_SMD:C_0603_1608Metric').
+Indicador de referencia cambiado de REF** a C17.
+Valor C17 cambiado de C_0603_1608Metric a C100N.
+Asociación de símbolos C17 actualizada de  a /1eebe510-416f-488c-9b06-5df7759c80f9.
+Actualizar campos C17.
+Se actualizó el nombre de la hoja C17 a 'Raíz'.
+Se actualizó el archivo de hoja C17 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de C17 a 'C_*'.
+Agregar red BAT_LVL.
+C17 pin 2 conectado a BAT_LVL.
+C17 pin 1 conectado a GND.
+Agregado C18 (huella 'Capacitor_SMD:C_0603_1608Metric').
+Indicador de referencia cambiado de REF** a C18.
+Valor C18 cambiado de C_0603_1608Metric a C20P.
+Asociación de símbolos C18 actualizada de  a /52cf2521-5a80-4316-b816-92d2b83090b1.
+Actualizar campos C18.
+Se actualizó el nombre de la hoja C18 a 'Raíz'.
+Se actualizó el archivo de hoja C18 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de C18 a 'C_*'.
+Agregar red OSC8M_OUT.
+C18 pin 2 conectado a OSC8M_OUT.
+C18 pin 1 conectado a GND.
+Agregado C19 (huella 'Capacitor_SMD:C_0603_1608Metric').
+Indicador de referencia cambiado de REF** a C19.
+Valor C19 cambiado de C_0603_1608Metric a C20P.
+Asociación de símbolos C19 actualizada de  a /879505f6-50f7-4dc4-a031-1756185e1040.
+Actualizar campos C19.
+Se actualizó el nombre de la hoja C19 a 'Raíz'.
+Se actualizó el archivo de hoja C19 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de C19 a 'C_*'.
+C19 pin 1 conectado a GND.
+Agregar red OSC8M_IN.
+C19 pin 2 conectado a OSC8M_IN.
+Agregado C20 (huella 'Capacitor_SMD:C_0603_1608Metric').
+Indicador de referencia cambiado de REF** a C20.
+Valor C20 cambiado de C_0603_1608Metric a C10U.
+Asociación de símbolos C20 actualizada de  a /b3ebd860-a8e0-4c48-b409-e49f24c045db.
+Actualizar campos C20.
+Se actualizó el nombre de la hoja C20 a 'Raíz'.
+Se actualizó el archivo de hoja C20 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de C20 a 'C_*'.
+C20 pin 2 conectado a TP_IN.
+C20 pin 1 conectado a GND.
+Agregado C21 (huella 'Capacitor_SMD:C_0603_1608Metric').
+Indicador de referencia cambiado de REF** a C21.
+Valor C21 cambiado de C_0603_1608Metric a C100N.
+Asociación de símbolos C21 actualizada de  a /fc8b4c56-8aa0-444f-a0d7-bb7fc2ca357a.
+Actualizar campos C21.
+Se actualizó el nombre de la hoja C21 a 'Raíz'.
+Se actualizó el archivo de hoja C21 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de C21 a 'C_*'.
+C21 pin 2 conectado a TP_IN.
+C21 pin 1 conectado a GND.
+Agregado C22 (huella 'Capacitor_SMD:C_0603_1608Metric').
+Indicador de referencia cambiado de REF** a C22.
+Valor C22 cambiado de C_0603_1608Metric a C10U.
+Asociación de símbolos C22 actualizada de  a /9c93c9fd-ed5d-4a54-a7b8-01d352037c44.
+Actualizar campos C22.
+Se actualizó el nombre de la hoja C22 a 'Raíz'.
+Se actualizó el archivo de hoja C22 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de C22 a 'C_*'.
+C22 pin 1 conectado a GND.
+C22 pin 2 conectado a +3V3.
+Agregado C23 (huella 'Capacitor_SMD:C_0603_1608Metric').
+Indicador de referencia cambiado de REF** a C23.
+Valor C23 cambiado de C_0603_1608Metric a C100N.
+Asociación de símbolos C23 actualizada de  a /5c6e78f3-fd71-4d5c-88f4-52ec51285496.
+Actualizar campos C23.
+Se actualizó el nombre de la hoja C23 a 'Raíz'.
+Se actualizó el archivo de hoja C23 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de C23 a 'C_*'.
+C23 pin 1 conectado a GND.
+C23 pin 2 conectado a +3V3.
+Agregado D5 (huella 'LED_SMD:LED_0805_2012Metric').
+Indicador de referencia cambiado de REF** a D5.
+Valor D5 cambiado de LED_0805_2012Metric a PC13.
+Asociación de símbolos D5 actualizada de  a /deed5569-ba94-49c8-8ae3-9c356259154e.
+Actualizar campos D5.
+Se actualizó el nombre de la hoja D5 a 'Raíz'.
+Se actualizó el archivo de hoja D5 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de D5 a 'LED* LED_SMD:* LED_THT:*'.
+Agregar red Net-(D5-K).
+D5 pin 1 conectado a Net-(D5-K).
+D5 pin 2 conectado a +3V3.
+Agregado D10 (huella 'LED_SMD:LED_0805_2012Metric').
+Indicador de referencia cambiado de REF** a D10.
+Valor D10 cambiado de LED_0805_2012Metric a LED.
+Asociación de símbolos D10 actualizada de  a /d2c8e413-81b0-4af3-aa0c-c8cbc63acb27.
+Actualizar campos D10.
+Se actualizó el nombre de la hoja D10 a 'Raíz'.
+Se actualizó el archivo de hoja D10 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de D10 a 'LED* LED_SMD:* LED_THT:*'.
+D10 pin 2 conectado a TP_IN.
+Agregar red Net-(D10-K).
+D10 pin 1 conectado a Net-(D10-K).
+Agregado D11 (huella 'LED_SMD:LED_0805_2012Metric').
+Indicador de referencia cambiado de REF** a D11.
+Valor D11 cambiado de LED_0805_2012Metric a LED.
+Asociación de símbolos D11 actualizada de  a /791371cd-3fb0-487c-a4db-4b6661d54501.
+Actualizar campos D11.
+Se actualizó el nombre de la hoja D11 a 'Raíz'.
+Se actualizó el archivo de hoja D11 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de D11 a 'LED* LED_SMD:* LED_THT:*'.
+D11 pin 2 conectado a TP_IN.
+Agregar red Net-(D11-K).
+D11 pin 1 conectado a Net-(D11-K).
+Agregado D12 (huella 'LED_THT:LED_D5.0mm').
+Indicador de referencia cambiado de REF** a D12.
+Valor D12 cambiado de LED_D5.0mm a BAT25.
+Asociación de símbolos D12 actualizada de  a /515d84e9-492e-4342-992e-798b1a1b03d2.
+Actualizar campos D12.
+Se actualizó el nombre de la hoja D12 a 'Raíz'.
+Se actualizó el archivo de hoja D12 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de D12 a 'LED* LED_SMD:* LED_THT:*'.
+Agregar red LED_OK.
+D12 pin 2 conectado a LED_OK.
+Agregar red Net-(D12-K).
+D12 pin 1 conectado a Net-(D12-K).
+Agregado D13 (huella 'LED_THT:LED_D5.0mm').
+Indicador de referencia cambiado de REF** a D13.
+Valor D13 cambiado de LED_D5.0mm a BAT50.
+Asociación de símbolos D13 actualizada de  a /d1088115-418c-4b5d-ac6e-87da797a8f4a.
+Actualizar campos D13.
+Se actualizó el nombre de la hoja D13 a 'Raíz'.
+Se actualizó el archivo de hoja D13 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de D13 a 'LED* LED_SMD:* LED_THT:*'.
+Agregar red LED_ERROR.
+D13 pin 2 conectado a LED_ERROR.
+Agregar red Net-(D13-K).
+D13 pin 1 conectado a Net-(D13-K).
+Agregado D14 (huella 'LED_THT:LED_D5.0mm').
+Indicador de referencia cambiado de REF** a D14.
+Valor D14 cambiado de LED_D5.0mm a BAT75.
+Asociación de símbolos D14 actualizada de  a /97f9eee1-fdb2-4667-9e7a-be5e8aff4119.
+Actualizar campos D14.
+Se actualizó el nombre de la hoja D14 a 'Raíz'.
+Se actualizó el archivo de hoja D14 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de D14 a 'LED* LED_SMD:* LED_THT:*'.
+Agregar red Net-(D14-K).
+D14 pin 1 conectado a Net-(D14-K).
+Agregar red LED_MODSERV_ON.
+D14 pin 2 conectado a LED_MODSERV_ON.
+Agregado D15 (huella 'LED_THT:LED_D5.0mm').
+Indicador de referencia cambiado de REF** a D15.
+Valor D15 cambiado de LED_D5.0mm a BAT99.
+Asociación de símbolos D15 actualizada de  a /0678495b-7082-4d00-a57a-8c265ae8435b.
+Actualizar campos D15.
+Se actualizó el nombre de la hoja D15 a 'Raíz'.
+Se actualizó el archivo de hoja D15 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de D15 a 'LED* LED_SMD:* LED_THT:*'.
+Agregar red Net-(D15-K).
+D15 pin 1 conectado a Net-(D15-K).
+Agregar red LED_MODSERV_OFF.
+D15 pin 2 conectado a LED_MODSERV_OFF.
+Agregado J1 (huella 'Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical').
+Indicador de referencia cambiado de REF** a J1.
+Valor J1 cambiado de PinHeader_2x03_P2.54mm_Vertical a Conn_02x03_Counter_Clockwise.
+Asociación de símbolos J1 actualizada de  a /7a3486de-b4d5-4ce3-a9d0-5f09a02d0973.
+Actualizar campos J1.
+Se actualizó el nombre de la hoja J1 a 'Raíz'.
+Se actualizó el archivo de hoja J1 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de J1 a 'Connector*:*_2x??_*'.
+J1 pin 3 conectado a GND.
+Agregar red BOOT1.
+J1 pin 5 conectado a BOOT1.
+J1 pin 4 conectado a GND.
+J1 pin 1 conectado a +3V3.
+J1 pin 6 conectado a +3V3.
+Agregar red BOOT0.
+J1 pin 2 conectado a BOOT0.
+Agregado J2 (huella 'Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical').
+Indicador de referencia cambiado de REF** a J2.
+Valor J2 cambiado de PinHeader_1x04_P2.54mm_Vertical a Conn_01x04_Pin.
+Asociación de símbolos J2 actualizada de  a /67073f9a-a8e3-4d3c-8516-a0b9d3b7757a.
+Actualizar campos J2.
+Se actualizó el nombre de la hoja J2 a 'Raíz'.
+Se actualizó el archivo de hoja J2 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de J2 a 'Connector*:*_1x??_*'.
+J2 pin 4 conectado a GND.
+Agregar red DCLK.
+J2 pin 3 conectado a DCLK.
+Agregar red DIO.
+J2 pin 2 conectado a DIO.
+J2 pin 1 conectado a +3V3.
+Agregado J3 (huella 'Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical').
+Indicador de referencia cambiado de REF** a J3.
+Valor J3 cambiado de PinHeader_1x02_P1.00mm_Vertical a Conn_01x02_Pin.
+Asociación de símbolos J3 actualizada de  a /5116618c-5077-4031-badb-8988967e4adc.
+Actualizar campos J3.
+Se actualizó el nombre de la hoja J3 a 'Raíz'.
+Se actualizó el archivo de hoja J3 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de J3 a 'Connector*:*_1x??_*'.
+J3 pin 2 conectado a BAT+.
+J3 pin 1 conectado a VIN+.
+Agregado J4 (huella 'Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical').
+Indicador de referencia cambiado de REF** a J4.
+Valor J4 cambiado de PinHeader_1x02_P1.00mm_Vertical a Conn_01x02_Pin.
+Asociación de símbolos J4 actualizada de  a /8970aefe-2ae9-4a78-9daf-71429c772b63.
+Actualizar campos J4.
+Se actualizó el nombre de la hoja J4 a 'Raíz'.
+Se actualizó el archivo de hoja J4 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de J4 a 'Connector*:*_1x??_*'.
+J4 pin 1 conectado a TP_IN.
+J4 pin 2 conectado a GND.
+Agregado J5 (huella 'Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical').
+Indicador de referencia cambiado de REF** a J5.
+Valor J5 cambiado de PinHeader_1x02_P1.00mm_Vertical a Conn_01x02_Pin.
+Asociación de símbolos J5 actualizada de  a /17e95bbf-6a20-45d7-9ef7-56dad50ced97.
+Actualizar campos J5.
+Se actualizó el nombre de la hoja J5 a 'Raíz'.
+Se actualizó el archivo de hoja J5 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de J5 a 'Connector*:*_1x??_*'.
+J5 pin 1 conectado a +3V3.
+J5 pin 2 conectado a GND.
+Agregado J6 (huella 'Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical').
+Indicador de referencia cambiado de REF** a J6.
+Valor J6 cambiado de PinHeader_1x02_P1.00mm_Vertical a Conn_01x02_Pin.
+Asociación de símbolos J6 actualizada de  a /5145f470-ae4e-429b-8d2a-7a3984e201c8.
+Actualizar campos J6.
+Se actualizó el nombre de la hoja J6 a 'Raíz'.
+Se actualizó el archivo de hoja J6 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de J6 a 'Connector*:*_1x??_*'.
+J6 pin 2 conectado a GND.
+J6 pin 1 conectado a TP_IN.
+Agregado J7 (huella 'Own-Footprints:MicroSD_Memory').
+Indicador de referencia cambiado de REF** a J7.
+Valor J7 cambiado de MicroSD_Memory a Micro_SD_Card.
+Asociación de símbolos J7 actualizada de  a /50a5c195-6547-4cfc-9369-65d636355815.
+Actualizar campos J7.
+Se actualizó el nombre de la hoja J7 a 'Raíz'.
+Se actualizó el archivo de hoja J7 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de J7 a 'microSD*'.
+Agregar red SD_CLK.
+J7 pin 5 conectado a SD_CLK.
+Agregar red unconnected-(J7-DAT1-Pad8).
+J7 pin 8 conectado a unconnected-(J7-DAT1-Pad8).
+J7 pin 4 conectado a +3V3.
+J7 pin 6 conectado a GND.
+Agregar red unconnected-(J7-DAT2-Pad1).
+J7 pin 1 conectado a unconnected-(J7-DAT2-Pad1).
+Agregar red SD_MOSI.
+J7 pin 3 conectado a SD_MOSI.
+Agregar red SD_CS.
+J7 pin 2 conectado a SD_CS.
+Agregar red SHIELD.
+J7 pin 9 conectado a SHIELD.
+Agregar red SD_MISO.
+J7 pin 7 conectado a SD_MISO.
+Agregado J9 (huella 'Connector_IDC:IDC-Header_2x04_P2.54mm_Horizontal').
+Indicador de referencia cambiado de REF** a J9.
+Valor J9 cambiado de IDC-Header_2x04_P2.54mm_Horizontal a Conn_02x04_Counter_Clockwise.
+Asociación de símbolos J9 actualizada de  a /5a66f228-9747-48d7-addb-dd6aab2e9e06.
+Actualizar campos J9.
+Se actualizó el nombre de la hoja J9 a 'Raíz'.
+Se actualizó el archivo de hoja J9 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de J9 a 'Connector*:*_2x??_*'.
+Agregar red unconnected-(J9-Pin_3-Pad3).
+J9 pin 3 conectado a unconnected-(J9-Pin_3-Pad3).
+J9 pin 4 conectado a GND.
+J9 pin 8 conectado a DO_3V3.
+Agregar red unconnected-(J9-Pin_1-Pad1).
+J9 pin 1 conectado a unconnected-(J9-Pin_1-Pad1).
+Agregar red unconnected-(J9-Pin_7-Pad7).
+J9 pin 7 conectado a unconnected-(J9-Pin_7-Pad7).
+Agregar red CONN_SDA.
+J9 pin 5 conectado a CONN_SDA.
+Agregar red CONN_SCL.
+J9 pin 6 conectado a CONN_SCL.
+Agregar red unconnected-(J9-Pin_2-Pad2).
+J9 pin 2 conectado a unconnected-(J9-Pin_2-Pad2).
+Agregado J10 (huella 'Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical').
+Indicador de referencia cambiado de REF** a J10.
+Valor J10 cambiado de PinHeader_1x02_P1.00mm_Vertical a Conn_01x02_Pin.
+Asociación de símbolos J10 actualizada de  a /89389d1a-30c4-4a0c-9714-65e7478fae1e.
+Actualizar campos J10.
+Se actualizó el nombre de la hoja J10 a 'Raíz'.
+Se actualizó el archivo de hoja J10 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de J10 a 'Connector*:*_1x??_*'.
+J10 pin 1 conectado a TP_IN.
+J10 pin 2 conectado a GND.
+Agregado J11 (huella 'Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical').
+Indicador de referencia cambiado de REF** a J11.
+Valor J11 cambiado de PinHeader_1x02_P1.00mm_Vertical a Conn_01x02_Pin.
+Asociación de símbolos J11 actualizada de  a /41aa8929-aad1-4ee9-850e-9802965d7a13.
+Actualizar campos J11.
+Se actualizó el nombre de la hoja J11 a 'Raíz'.
+Se actualizó el archivo de hoja J11 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de J11 a 'Connector*:*_1x??_*'.
+J11 pin 2 conectado a GND.
+J11 pin 1 conectado a +3V3.
+Agregado J12 (huella 'Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical').
+Indicador de referencia cambiado de REF** a J12.
+Valor J12 cambiado de PinHeader_1x02_P1.00mm_Vertical a Conn_01x02_Pin.
+Asociación de símbolos J12 actualizada de  a /5b67b268-564c-4924-b2f4-5eba5d59bb54.
+Actualizar campos J12.
+Se actualizó el nombre de la hoja J12 a 'Raíz'.
+Se actualizó el archivo de hoja J12 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de J12 a 'Connector*:*_1x??_*'.
+J12 pin 1 conectado a +3V3.
+J12 pin 2 conectado a GND.
+Agregado J13 (huella 'Connector_USB:USB_C_Receptacle_G-Switch_GT-USB-7010ASV').
+Indicador de referencia cambiado de REF** a J13.
+Valor J13 cambiado de USB_C_Receptacle_G-Switch_GT-USB-7010ASV a USB_C_Receptacle_USB2.0_14P.
+Asociación de símbolos J13 actualizada de  a /8cd3aba8-b117-4771-b412-72a68b81cc35.
+Actualizar campos J13.
+Se actualizó el nombre de la hoja J13 a 'Raíz'.
+Se actualizó el archivo de hoja J13 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de J13 a 'USB*C*Receptacle*'.
+J13 pin S1 conectado a SHIELD.
+J13 pin B4 conectado a TP_IN.
+J13 pin S1 conectado a SHIELD.
+J13 pin B12 conectado a GND.
+J13 pin S1 conectado a SHIELD.
+Agregar red USB_D-.
+J13 pin A7 conectado a USB_D-.
+J13 pin B1 conectado a GND.
+J13 pin S1 conectado a SHIELD.
+Agregar red USB_D+.
+J13 pin A6 conectado a USB_D+.
+J13 pin B6 conectado a USB_D+.
+J13 pin A12 conectado a GND.
+J13 pin B9 conectado a TP_IN.
+J13 pin A9 conectado a TP_IN.
+Agregar red Net-(J13-CC1).
+J13 pin A5 conectado a Net-(J13-CC1).
+J13 pin A4 conectado a TP_IN.
+Agregar red Net-(J13-CC2).
+J13 pin B5 conectado a Net-(J13-CC2).
+J13 pin B7 conectado a USB_D-.
+J13 pin A1 conectado a GND.
+Agregado Q1 (huella 'Package_TO_SOT_SMD:SOT-23').
+Indicador de referencia cambiado de REF** a Q1.
+Valor Q1 cambiado de SOT-23 a IRLML6402.
+Asociación de símbolos Q1 actualizada de  a /c373494d-cfa3-4941-8c62-508f9944ad14.
+Actualizar campos Q1.
+Se actualizó el nombre de la hoja Q1 a 'Raíz'.
+Se actualizó el archivo de hoja Q1 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de Q1 a 'SOT?23*'.
+Q1 pin 1 conectado a Net-(Q1-G).
+Q1 pin 3 conectado a DO_3V3.
+Q1 pin 2 conectado a +3V3.
+Agregado R1 (huella 'Resistor_SMD:R_0603_1608Metric').
+Indicador de referencia cambiado de REF** a R1.
+Valor R1 cambiado de R_0603_1608Metric a R100K.
+Asociación de símbolos R1 actualizada de  a /a6f8bd5a-411c-4f12-8fb1-442574451a73.
+Actualizar campos R1.
+Se actualizó el nombre de la hoja R1 a 'Raíz'.
+Se actualizó el archivo de hoja R1 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de R1 a 'R_*'.
+Agregar red Net-(U5-BOOT0).
+R1 pin 1 conectado a Net-(U5-BOOT0).
+R1 pin 2 conectado a BOOT0.
+Agregado R2 (huella 'Resistor_SMD:R_0603_1608Metric').
+Indicador de referencia cambiado de REF** a R2.
+Valor R2 cambiado de R_0603_1608Metric a R100K.
+Asociación de símbolos R2 actualizada de  a /243ca64e-03ac-43a2-9179-8e1555bb2202.
+Actualizar campos R2.
+Se actualizó el nombre de la hoja R2 a 'Raíz'.
+Se actualizó el archivo de hoja R2 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de R2 a 'R_*'.
+R2 pin 1 conectado a LED_B00.
+R2 pin 2 conectado a BOOT1.
+Agregado R3 (huella 'Resistor_SMD:R_0603_1608Metric').
+Indicador de referencia cambiado de REF** a R3.
+Valor R3 cambiado de R_0603_1608Metric a R330.
+Asociación de símbolos R3 actualizada de  a /b7c97085-6ba4-4505-9150-c40b248af3d2.
+Actualizar campos R3.
+Se actualizó el nombre de la hoja R3 a 'Raíz'.
+Se actualizó el archivo de hoja R3 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de R3 a 'R_*'.
+Agregar red PC13.
+R3 pin 2 conectado a PC13.
+R3 pin 1 conectado a Net-(D5-K).
+Agregado R4 (huella 'Resistor_SMD:R_0603_1608Metric').
+Indicador de referencia cambiado de REF** a R4.
+Valor R4 cambiado de R_0603_1608Metric a R330.
+Asociación de símbolos R4 actualizada de  a /caf07218-db84-4389-98cd-b3973a8bf3a4.
+Actualizar campos R4.
+Se actualizó el nombre de la hoja R4 a 'Raíz'.
+Se actualizó el archivo de hoja R4 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de R4 a 'R_*'.
+R4 pin 1 conectado a Net-(BAR1-K-Pad13).
+R4 pin 2 conectado a GND.
+Agregado R5 (huella 'Resistor_SMD:R_0603_1608Metric').
+Indicador de referencia cambiado de REF** a R5.
+Valor R5 cambiado de R_0603_1608Metric a R330.
+Asociación de símbolos R5 actualizada de  a /c468156a-564b-427f-8c4c-1c37b649ab26.
+Actualizar campos R5.
+Se actualizó el nombre de la hoja R5 a 'Raíz'.
+Se actualizó el archivo de hoja R5 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de R5 a 'R_*'.
+R5 pin 1 conectado a Net-(BAR1-K-Pad15).
+R5 pin 2 conectado a GND.
+Agregado R6 (huella 'Resistor_SMD:R_0603_1608Metric').
+Indicador de referencia cambiado de REF** a R6.
+Valor R6 cambiado de R_0603_1608Metric a R330.
+Asociación de símbolos R6 actualizada de  a /ab569707-8a82-4854-8f19-d0da4e31583a.
+Actualizar campos R6.
+Se actualizó el nombre de la hoja R6 a 'Raíz'.
+Se actualizó el archivo de hoja R6 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de R6 a 'R_*'.
+R6 pin 2 conectado a GND.
+R6 pin 1 conectado a Net-(BAR1-K-Pad17).
+Agregado R7 (huella 'Resistor_SMD:R_0603_1608Metric').
+Indicador de referencia cambiado de REF** a R7.
+Valor R7 cambiado de R_0603_1608Metric a R330.
+Asociación de símbolos R7 actualizada de  a /d0595f13-b60f-4191-aa33-f0d94e9b4af3.
+Actualizar campos R7.
+Se actualizó el nombre de la hoja R7 a 'Raíz'.
+Se actualizó el archivo de hoja R7 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de R7 a 'R_*'.
+R7 pin 2 conectado a GND.
+R7 pin 1 conectado a Net-(BAR1-K-Pad19).
+Agregado AFF2 (huella 'Display_7Segment:7SegmentLED_LTS6760_LTS6780').
+Agregado R8 (huella 'Resistor_SMD:R_0603_1608Metric').
+Indicador de referencia cambiado de REF** a R8.
+Valor R8 cambiado de R_0603_1608Metric a R10K.
+Asociación de símbolos R8 actualizada de  a /f658e5c1-cac2-483f-9e99-3ef522ccbe89.
+Actualizar campos R8.
+Se actualizó el nombre de la hoja R8 a 'Raíz'.
+Se actualizó el archivo de hoja R8 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de R8 a 'R_*'.
+R8 pin 2 conectado a GND.
+R8 pin 1 conectado a PUSH_IN.
+Indicador de referencia cambiado de REF** a AFF2.
+Agregado R9 (huella 'Resistor_SMD:R_0603_1608Metric').
+Indicador de referencia cambiado de REF** a R9.
+Valor R9 cambiado de R_0603_1608Metric a R10K.
+Asociación de símbolos R9 actualizada de  a /73814bb2-b50e-44a6-bb99-7a4e103b2b47.
+Actualizar campos R9.
+Se actualizó el nombre de la hoja R9 a 'Raíz'.
+Se actualizó el archivo de hoja R9 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de R9 a 'R_*'.
+R9 pin 2 conectado a PUSH_OUT.
+R9 pin 1 conectado a GND.
+Valor AFF2 cambiado de 7SegmentLED_LTS6760_LTS6780 a LTS-6980HR.
+Agregado R10 (huella 'Resistor_SMD:R_0603_1608Metric').
+Indicador de referencia cambiado de REF** a R10.
+Valor R10 cambiado de R_0603_1608Metric a R330.
+Asociación de símbolos R10 actualizada de  a /f145657c-4cc1-4e6d-8ab3-423a8c355c15.
+Actualizar campos R10.
+Se actualizó el nombre de la hoja R10 a 'Raíz'.
+Se actualizó el archivo de hoja R10 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de R10 a 'R_*'.
+R10 pin 1 conectado a Net-(D12-K).
+R10 pin 2 conectado a GND.
+Asociación de símbolos AFF2 actualizada de  a /c4b6493a-1196-4560-963c-462d4868886a.
+Agregado R11 (huella 'Resistor_SMD:R_0603_1608Metric').
+Indicador de referencia cambiado de REF** a R11.
+Valor R11 cambiado de R_0603_1608Metric a R330.
+Asociación de símbolos R11 actualizada de  a /989bbcec-e946-4b84-8731-b3bd5cf3bc55.
+Actualizar campos R11.
+Se actualizó el nombre de la hoja R11 a 'Raíz'.
+Se actualizó el archivo de hoja R11 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de R11 a 'R_*'.
+R11 pin 2 conectado a GND.
+R11 pin 1 conectado a Net-(D13-K).
+Actualizar campos AFF2.
+Agregado R12 (huella 'Resistor_SMD:R_0603_1608Metric').
+Indicador de referencia cambiado de REF** a R12.
+Valor R12 cambiado de R_0603_1608Metric a R330.
+Asociación de símbolos R12 actualizada de  a /265a690f-9ef8-4b29-8e57-c3d3741dd19b.
+Actualizar campos R12.
+Se actualizó el nombre de la hoja R12 a 'Raíz'.
+Se actualizó el archivo de hoja R12 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de R12 a 'R_*'.
+R12 pin 1 conectado a Net-(BAR1-K-Pad11).
+R12 pin 2 conectado a GND.
+Se actualizó el nombre de la hoja AFF2 a 'Raíz'.
+Agregado R13 (huella 'Resistor_SMD:R_0603_1608Metric').
+Indicador de referencia cambiado de REF** a R13.
+Valor R13 cambiado de R_0603_1608Metric a R5K.
+Asociación de símbolos R13 actualizada de  a /389b5c90-8db5-4b6c-a8e8-054b4613ffb7.
+Actualizar campos R13.
+Se actualizó el nombre de la hoja R13 a 'Raíz'.
+Se actualizó el archivo de hoja R13 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de R13 a 'R_*'.
+R13 pin 2 conectado a BAT+.
+R13 pin 1 conectado a BAT_LVL.
+Se actualizó el archivo de hoja AFF2 a 'VW_ServMode_4taGen.kicad_sch'.
+Agregado R14 (huella 'Resistor_SMD:R_0603_1608Metric').
+Indicador de referencia cambiado de REF** a R14.
+Valor R14 cambiado de R_0603_1608Metric a R10K.
+Asociación de símbolos R14 actualizada de  a /fda81b01-2b38-4781-b484-fecc3926dd05.
+Actualizar campos R14.
+Se actualizó el nombre de la hoja R14 a 'Raíz'.
+Se actualizó el archivo de hoja R14 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de R14 a 'R_*'.
+Agregar red #RESET.
+R14 pin 1 conectado a #RESET.
+R14 pin 2 conectado a +3.3V.
+Se actualizaron los filtros de huella de AFF2 a '7SegmentLED?LTS6760?LTS6780*'.
+Agregado R15 (huella 'Resistor_SMD:R_0603_1608Metric').
+Indicador de referencia cambiado de REF** a R15.
+Valor R15 cambiado de R_0603_1608Metric a R10K.
+Asociación de símbolos R15 actualizada de  a /f2d77b1f-2de9-433c-9314-2c39930cd701.
+Actualizar campos R15.
+Se actualizó el nombre de la hoja R15 a 'Raíz'.
+Se actualizó el archivo de hoja R15 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de R15 a 'R_*'.
+R15 pin 1 conectado a SD_CS.
+R15 pin 2 conectado a +3V3.
+Agregar red Net-(AFF2-c).
+Agregado R16 (huella 'Resistor_SMD:R_0603_1608Metric').
+Indicador de referencia cambiado de REF** a R16.
+Valor R16 cambiado de R_0603_1608Metric a R10K.
+Asociación de símbolos R16 actualizada de  a /46174429-5854-4c10-899b-fa6bd252a454.
+Actualizar campos R16.
+Se actualizó el nombre de la hoja R16 a 'Raíz'.
+Se actualizó el archivo de hoja R16 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de R16 a 'R_*'.
+R16 pin 2 conectado a +3V3.
+R16 pin 1 conectado a SD_MOSI.
+AFF2 pin 4 conectado a Net-(AFF2-c).
+Agregado R17 (huella 'Resistor_SMD:R_0603_1608Metric').
+Indicador de referencia cambiado de REF** a R17.
+Valor R17 cambiado de R_0603_1608Metric a R10K.
+Asociación de símbolos R17 actualizada de  a /cf0a50f9-b83f-4064-a659-8a576ce88f08.
+Actualizar campos R17.
+Se actualizó el nombre de la hoja R17 a 'Raíz'.
+Se actualizó el archivo de hoja R17 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de R17 a 'R_*'.
+R17 pin 1 conectado a SD_CLK.
+R17 pin 2 conectado a +3V3.
+Agregar red Net-(AFF2-a).
+Agregado R18 (huella 'Resistor_SMD:R_0603_1608Metric').
+Indicador de referencia cambiado de REF** a R18.
+Valor R18 cambiado de R_0603_1608Metric a R10K.
+Asociación de símbolos R18 actualizada de  a /aed182bb-51e1-4b91-82b6-0823b7f57118.
+Actualizar campos R18.
+Se actualizó el nombre de la hoja R18 a 'Raíz'.
+Se actualizó el archivo de hoja R18 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de R18 a 'R_*'.
+R18 pin 2 conectado a +3V3.
+R18 pin 1 conectado a SD_MISO.
+AFF2 pin 7 conectado a Net-(AFF2-a).
+Agregado R19 (huella 'Resistor_SMD:R_0603_1608Metric').
+Indicador de referencia cambiado de REF** a R19.
+Valor R19 cambiado de R_0603_1608Metric a R1K.
+Asociación de símbolos R19 actualizada de  a /52bbb8aa-33c2-4c46-834c-ada602be10b6.
+Actualizar campos R19.
+Se actualizó el nombre de la hoja R19 a 'Raíz'.
+Se actualizó el archivo de hoja R19 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de R19 a 'R_*'.
+Agregar red TP_#CHRG.
+R19 pin 1 conectado a TP_#CHRG.
+R19 pin 2 conectado a Net-(D10-K).
+Agregar red Net-(AFF2-b).
+Agregado R20 (huella 'Resistor_SMD:R_0603_1608Metric').
+Indicador de referencia cambiado de REF** a R20.
+Valor R20 cambiado de R_0603_1608Metric a R1K.
+Asociación de símbolos R20 actualizada de  a /b19588e7-c075-4dde-83c9-327e59b21613.
+Actualizar campos R20.
+Se actualizó el nombre de la hoja R20 a 'Raíz'.
+Se actualizó el archivo de hoja R20 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de R20 a 'R_*'.
+Agregar red TP_#STDBY.
+R20 pin 1 conectado a TP_#STDBY.
+R20 pin 2 conectado a Net-(D11-K).
+AFF2 pin 6 conectado a Net-(AFF2-b).
+Agregado R21 (huella 'Resistor_SMD:R_0603_1608Metric').
+Indicador de referencia cambiado de REF** a R21.
+Valor R21 cambiado de R_0603_1608Metric a R1K2.
+Asociación de símbolos R21 actualizada de  a /6e6e2d71-50a7-4b96-acdc-5b7182fd5959.
+Actualizar campos R21.
+Se actualizó el nombre de la hoja R21 a 'Raíz'.
+Se actualizó el archivo de hoja R21 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de R21 a 'R_*'.
+R21 pin 1 conectado a GND.
+Agregar red Net-(U1-PROG).
+R21 pin 2 conectado a Net-(U1-PROG).
+Agregar red Net-(AFF2-f).
+Agregado R22 (huella 'Resistor_SMD:R_0603_1608Metric').
+Indicador de referencia cambiado de REF** a R22.
+Valor R22 cambiado de R_0603_1608Metric a R10K.
+Asociación de símbolos R22 actualizada de  a /7ae5bd63-8500-40b5-9b51-ea876a5d7865.
+Actualizar campos R22.
+Se actualizó el nombre de la hoja R22 a 'Raíz'.
+Se actualizó el archivo de hoja R22 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de R22 a 'R_*'.
+Agregar red Net-(U2-CS).
+R22 pin 2 conectado a Net-(U2-CS).
+Agregar red Net-(R22-Pad1).
+R22 pin 1 conectado a Net-(R22-Pad1).
+AFF2 pin 9 conectado a Net-(AFF2-f).
+Agregado R23 (huella 'Resistor_SMD:R_0603_1608Metric').
+Indicador de referencia cambiado de REF** a R23.
+Valor R23 cambiado de R_0603_1608Metric a R10K.
+Asociación de símbolos R23 actualizada de  a /98c11dac-dbe4-4f68-b812-3ef1131b7b10.
+Actualizar campos R23.
+Se actualizó el nombre de la hoja R23 a 'Raíz'.
+Se actualizó el archivo de hoja R23 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de R23 a 'R_*'.
+R23 pin 2 conectado a Net-(U2-VCC).
+R23 pin 1 conectado a BAT+.
+Agregar red Net-(AFF2-C.K.-Pad3).
+Agregado R24 (huella 'Resistor_SMD:R_0603_1608Metric').
+Indicador de referencia cambiado de REF** a R24.
+Valor R24 cambiado de R_0603_1608Metric a R5K1.
+Asociación de símbolos R24 actualizada de  a /768b6d6c-9e55-4493-a8df-5bfe963da3a9.
+Actualizar campos R24.
+Se actualizó el nombre de la hoja R24 a 'Raíz'.
+Se actualizó el archivo de hoja R24 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de R24 a 'R_*'.
+R24 pin 2 conectado a Net-(J13-CC2).
+R24 pin 1 conectado a GND.
+AFF2 pin 3 conectado a Net-(AFF2-C.K.-Pad3).
+Agregado R25 (huella 'Resistor_SMD:R_0603_1608Metric').
+Indicador de referencia cambiado de REF** a R25.
+Valor R25 cambiado de R_0603_1608Metric a R5K1.
+Asociación de símbolos R25 actualizada de  a /612f34d2-7978-4ddd-9511-826af35ff9b1.
+Actualizar campos R25.
+Se actualizó el nombre de la hoja R25 a 'Raíz'.
+Se actualizó el archivo de hoja R25 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de R25 a 'R_*'.
+R25 pin 1 conectado a Net-(J13-CC1).
+R25 pin 2 conectado a GND.
+Agregar red Net-(AFF2-g).
+Agregado R26 (huella 'Resistor_SMD:R_0603_1608Metric').
+Indicador de referencia cambiado de REF** a R26.
+Valor R26 cambiado de R_0603_1608Metric a R47K.
+Asociación de símbolos R26 actualizada de  a /37e75730-5f42-40bd-a6c2-64a89d5ba3a7.
+Actualizar campos R26.
+Se actualizó el nombre de la hoja R26 a 'Raíz'.
+Se actualizó el archivo de hoja R26 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de R26 a 'R_*'.
+R26 pin 1 conectado a Net-(Q1-G).
+R26 pin 2 conectado a +3V3.
+AFF2 pin 10 conectado a Net-(AFF2-g).
+Agregado R27 (huella 'Resistor_SMD:R_0603_1608Metric').
+Indicador de referencia cambiado de REF** a R27.
+Valor R27 cambiado de R_0603_1608Metric a R2K2.
+Asociación de símbolos R27 actualizada de  a /54ee4681-f9da-44d0-8abd-e244582fae6e.
+Actualizar campos R27.
+Se actualizó el nombre de la hoja R27 a 'Raíz'.
+Se actualizó el archivo de hoja R27 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de R27 a 'R_*'.
+R27 pin 1 conectado a Net-(Q1-G).
+Agregar red DO_CONTROL3V3.
+R27 pin 2 conectado a DO_CONTROL3V3.
+Agregar red unconnected-(AFF2-DP-Pad5).
+Agregado R28 (huella 'Resistor_SMD:R_0603_1608Metric').
+Indicador de referencia cambiado de REF** a R28.
+Valor R28 cambiado de R_0603_1608Metric a R4K7.
+Asociación de símbolos R28 actualizada de  a /2838fc1b-c25d-4146-a742-c87d431058fb.
+Actualizar campos R28.
+Se actualizó el nombre de la hoja R28 a 'Raíz'.
+Se actualizó el archivo de hoja R28 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de R28 a 'R_*'.
+R28 pin 1 conectado a CONN_SDA.
+R28 pin 2 conectado a DO_3V3.
+AFF2 pin 5 conectado a unconnected-(AFF2-DP-Pad5).
+Agregado R29 (huella 'Resistor_SMD:R_0603_1608Metric').
+Indicador de referencia cambiado de REF** a R29.
+Valor R29 cambiado de R_0603_1608Metric a R4K7.
+Asociación de símbolos R29 actualizada de  a /4d0d4b2c-e6c8-48ce-b89f-5b37b3e0c8c4.
+Actualizar campos R29.
+Se actualizó el nombre de la hoja R29 a 'Raíz'.
+Se actualizó el archivo de hoja R29 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de R29 a 'R_*'.
+R29 pin 2 conectado a DO_3V3.
+R29 pin 1 conectado a CONN_SCL.
+AFF2 pin 8 conectado a Net-(AFF2-C.K.-Pad3).
+Agregado R30 (huella 'Resistor_SMD:R_0603_1608Metric').
+Indicador de referencia cambiado de REF** a R30.
+Valor R30 cambiado de R_0603_1608Metric a R330.
+Asociación de símbolos R30 actualizada de  a /6844f033-695d-43f9-bf6c-4bb293cc376f.
+Actualizar campos R30.
+Se actualizó el nombre de la hoja R30 a 'Raíz'.
+Se actualizó el archivo de hoja R30 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de R30 a 'R_*'.
+R30 pin 1 conectado a Net-(D14-K).
+R30 pin 2 conectado a GND.
+Agregar red Net-(AFF2-e).
+Agregado R31 (huella 'Resistor_SMD:R_0603_1608Metric').
+Indicador de referencia cambiado de REF** a R31.
+Valor R31 cambiado de R_0603_1608Metric a R330.
+Asociación de símbolos R31 actualizada de  a /2029ed08-a925-43e1-8ef7-540bb78e5c56.
+Actualizar campos R31.
+Se actualizó el nombre de la hoja R31 a 'Raíz'.
+Se actualizó el archivo de hoja R31 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de R31 a 'R_*'.
+R31 pin 1 conectado a Net-(D15-K).
+R31 pin 2 conectado a GND.
+AFF2 pin 1 conectado a Net-(AFF2-e).
+Agregado R32 (huella 'Resistor_SMD:R_0603_1608Metric').
+Indicador de referencia cambiado de REF** a R32.
+Valor R32 cambiado de R_0603_1608Metric a R15K.
+Asociación de símbolos R32 actualizada de  a /1b1bceea-dcd9-4da6-9478-05564a1e911c.
+Actualizar campos R32.
+Se actualizó el nombre de la hoja R32 a 'Raíz'.
+Se actualizó el archivo de hoja R32 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de R32 a 'R_*'.
+R32 pin 2 conectado a BAT_LVL.
+R32 pin 1 conectado a GND.
+Agregar red Net-(AFF2-d).
+Agregado R33 (huella 'Resistor_SMD:R_0603_1608Metric').
+Indicador de referencia cambiado de REF** a R33.
+Valor R33 cambiado de R_0603_1608Metric a R0.
+Asociación de símbolos R33 actualizada de  a /bb8692bf-0bd5-42be-957d-7d4ff2858604.
+Actualizar campos R33.
+Se actualizó el nombre de la hoja R33 a 'Raíz'.
+Se actualizó el archivo de hoja R33 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de R33 a 'R_*'.
+R33 pin 2 conectado a GND.
+R33 pin 1 conectado a Net-(AFF2-C.K.-Pad3).
+AFF2 pin 2 conectado a Net-(AFF2-d).
+Agregado R34 (huella 'Resistor_SMD:R_0603_1608Metric').
+Indicador de referencia cambiado de REF** a R34.
+Valor R34 cambiado de R_0603_1608Metric a R0.
+Asociación de símbolos R34 actualizada de  a /06b1e9e0-8ac8-46ec-97de-2579dacc32ec.
+Actualizar campos R34.
+Se actualizó el nombre de la hoja R34 a 'Raíz'.
+Se actualizó el archivo de hoja R34 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de R34 a 'R_*'.
+R34 pin 1 conectado a +3V3.
+R34 pin 2 conectado a Net-(AFF2-C.K.-Pad3).
+Agregado BAR1 (huella 'Display:HDSP-4830').
+Agregado RA1 (huella 'Resistor_SMD:R_0603_1608Metric').
+Indicador de referencia cambiado de REF** a RA1.
+Valor RA1 cambiado de R_0603_1608Metric a 330.
+Asociación de símbolos RA1 actualizada de  a /d2803822-df83-4553-b33e-7caf92502e7a.
+Actualizar campos RA1.
+Se actualizó el nombre de la hoja RA1 a 'Raíz'.
+Se actualizó el archivo de hoja RA1 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de RA1 a 'R_*'.
+RA1 pin 1 conectado a Net-(AFF2-a).
+Agregar red LED_A.
+RA1 pin 2 conectado a LED_A.
+Indicador de referencia cambiado de REF** a BAR1.
+Agregado RB1 (huella 'Resistor_SMD:R_0603_1608Metric').
+Indicador de referencia cambiado de REF** a RB1.
+Valor RB1 cambiado de R_0603_1608Metric a 330.
+Asociación de símbolos RB1 actualizada de  a /73e23d05-afea-4b13-a514-43e03c925872.
+Actualizar campos RB1.
+Se actualizó el nombre de la hoja RB1 a 'Raíz'.
+Se actualizó el archivo de hoja RB1 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de RB1 a 'R_*'.
+Agregar red LED_B.
+RB1 pin 2 conectado a LED_B.
+RB1 pin 1 conectado a Net-(AFF2-b).
+Valor BAR1 cambiado de HDSP-4830 a HDSP-4830_2.
+Agregado RC1 (huella 'Resistor_SMD:R_0603_1608Metric').
+Indicador de referencia cambiado de REF** a RC1.
+Valor RC1 cambiado de R_0603_1608Metric a 330.
+Asociación de símbolos RC1 actualizada de  a /05ea64f6-7390-4d3f-8427-b3f082be4047.
+Actualizar campos RC1.
+Se actualizó el nombre de la hoja RC1 a 'Raíz'.
+Se actualizó el archivo de hoja RC1 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de RC1 a 'R_*'.
+Agregar red LED_C.
+RC1 pin 2 conectado a LED_C.
+RC1 pin 1 conectado a Net-(AFF2-c).
+Asociación de símbolos BAR1 actualizada de  a /4dc09acc-0a8d-4fe0-9241-2e525b60d238.
+Agregado RD1 (huella 'Resistor_SMD:R_0603_1608Metric').
+Indicador de referencia cambiado de REF** a RD1.
+Valor RD1 cambiado de R_0603_1608Metric a 330.
+Asociación de símbolos RD1 actualizada de  a /33988631-76a8-401f-adf0-a507b95872fc.
+Actualizar campos RD1.
+Se actualizó el nombre de la hoja RD1 a 'Raíz'.
+Se actualizó el archivo de hoja RD1 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de RD1 a 'R_*'.
+Agregar red LED_D.
+RD1 pin 2 conectado a LED_D.
+RD1 pin 1 conectado a Net-(AFF2-d).
+Actualizar campos BAR1.
+Agregado RE1 (huella 'Resistor_SMD:R_0603_1608Metric').
+Indicador de referencia cambiado de REF** a RE1.
+Valor RE1 cambiado de R_0603_1608Metric a 330.
+Asociación de símbolos RE1 actualizada de  a /0c85de3d-e25e-41ef-b502-df3659e90cde.
+Actualizar campos RE1.
+Se actualizó el nombre de la hoja RE1 a 'Raíz'.
+Se actualizó el archivo de hoja RE1 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de RE1 a 'R_*'.
+RE1 pin 1 conectado a Net-(AFF2-e).
+Agregar red LED_E.
+RE1 pin 2 conectado a LED_E.
+Se actualizó el nombre de la hoja BAR1 a 'Raíz'.
+Agregado RF1 (huella 'Resistor_SMD:R_0603_1608Metric').
+Indicador de referencia cambiado de REF** a RF1.
+Valor RF1 cambiado de R_0603_1608Metric a 330.
+Asociación de símbolos RF1 actualizada de  a /e2c516d2-0cd2-46a2-9f8e-2a8e93b75688.
+Actualizar campos RF1.
+Se actualizó el nombre de la hoja RF1 a 'Raíz'.
+Se actualizó el archivo de hoja RF1 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de RF1 a 'R_*'.
+RF1 pin 1 conectado a Net-(AFF2-f).
+Agregar red LED_F.
+RF1 pin 2 conectado a LED_F.
+Se actualizó el archivo de hoja BAR1 a 'VW_ServMode_4taGen.kicad_sch'.
+Agregado RG1 (huella 'Resistor_SMD:R_0603_1608Metric').
+Indicador de referencia cambiado de REF** a RG1.
+Valor RG1 cambiado de R_0603_1608Metric a 330.
+Asociación de símbolos RG1 actualizada de  a /96a5b8b3-5f80-43fe-9b67-febe61107de0.
+Actualizar campos RG1.
+Se actualizó el nombre de la hoja RG1 a 'Raíz'.
+Se actualizó el archivo de hoja RG1 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de RG1 a 'R_*'.
+RG1 pin 1 conectado a Net-(AFF2-g).
+Agregar red LED_G.
+RG1 pin 2 conectado a LED_G.
+Se actualizaron los filtros de huella de BAR1 a 'HDSP?48*'.
+Agregado SW1 (huella 'Button_Switch_THT:SW_PUSH_6mm').
+Indicador de referencia cambiado de REF** a SW1.
+Valor SW1 cambiado de SW_PUSH_6mm a SW_In.
+Asociación de símbolos SW1 actualizada de  a /c98ebf72-23cc-4f8b-a130-c5a4f7f8ecf2.
+Actualizar campos SW1.
+Se actualizó el nombre de la hoja SW1 a 'Raíz'.
+Se actualizó el archivo de hoja SW1 a 'VW_ServMode_4taGen.kicad_sch'.
+SW1 pin 2 conectado a +3.3V.
+SW1 pin 1 conectado a PUSH_IN.
+SW1 pin 2 conectado a +3.3V.
+SW1 pin 1 conectado a PUSH_IN.
+Agregar red Net-(BAR1-K-Pad15).
+Agregado SW2 (huella 'Button_Switch_THT:SW_PUSH_6mm').
+Indicador de referencia cambiado de REF** a SW2.
+Valor SW2 cambiado de SW_PUSH_6mm a SW_Out.
+Asociación de símbolos SW2 actualizada de  a /c7471057-44b4-4b2e-b451-8516ba77ba91.
+Actualizar campos SW2.
+Se actualizó el nombre de la hoja SW2 a 'Raíz'.
+Se actualizó el archivo de hoja SW2 a 'VW_ServMode_4taGen.kicad_sch'.
+SW2 pin 2 conectado a +3.3V.
+SW2 pin 2 conectado a +3.3V.
+SW2 pin 1 conectado a PUSH_OUT.
+SW2 pin 1 conectado a PUSH_OUT.
+BAR1 pin 15 conectado a Net-(BAR1-K-Pad15).
+Agregado SW4 (huella 'Button_Switch_THT:SW_PUSH_6mm').
+Indicador de referencia cambiado de REF** a SW4.
+Valor SW4 cambiado de SW_PUSH_6mm a SW_Out.
+Asociación de símbolos SW4 actualizada de  a /b1463c38-eb21-4150-b905-4ce0f0464298.
+Actualizar campos SW4.
+Se actualizó el nombre de la hoja SW4 a 'Raíz'.
+Se actualizó el archivo de hoja SW4 a 'VW_ServMode_4taGen.kicad_sch'.
+SW4 pin 1 conectado a GND.
+SW4 pin 2 conectado a #RESET.
+SW4 pin 1 conectado a GND.
+SW4 pin 2 conectado a #RESET.
+BAR1 pin 16 conectado a Net-(BAR1-K-Pad15).
+Agregado U1 (huella 'Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.29x3mm').
+Indicador de referencia cambiado de REF** a U1.
+Valor U1 cambiado de SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.29x3mm a TP4056.
+Asociación de símbolos U1 actualizada de  a /8ba7d76a-738c-41ea-a3a8-1594f089ba22.
+Actualizar campos U1.
+Se actualizó el nombre de la hoja U1 a 'Raíz'.
+Se actualizó el archivo de hoja U1 a 'VW_ServMode_4taGen.kicad_sch'.
+U1 pin 1 conectado a GND.
+U1 pin 2 conectado a Net-(U1-PROG).
+U1 pin 4 conectado a TP_IN.
+U1 pin 3 conectado a GND.
+U1 pin 7 conectado a TP_#CHRG.
+U1 pin 8 conectado a TP_IN.
+U1 pin 5 conectado a BAT+.
+U1 pin 6 conectado a TP_#STDBY.
+Agregar red unconnected-(U1-PP-Pad9).
+U1 pin 9 conectado a unconnected-(U1-PP-Pad9).
+Agregar red LED_B00.
+Agregado U2 (huella 'Package_TO_SOT_SMD:SOT-23-6_Handsoldering').
+Indicador de referencia cambiado de REF** a U2.
+Valor U2 cambiado de SOT-23-6_Handsoldering a DW01.
+Asociación de símbolos U2 actualizada de  a /81e9d1be-7ad4-49ef-8edd-6f7c8dc80778.
+Se actualizó el nombre de la hoja U2 a 'Raíz'.
+Se actualizó el archivo de hoja U2 a 'VW_ServMode_4taGen.kicad_sch'.
+U2 pin 6 conectado a TP_B-.
+U2 pin 5 conectado a Net-(U2-VCC).
+Agregar red Net-(U2-OD).
+U2 pin 1 conectado a Net-(U2-OD).
+Agregar red unconnected-(U2-TD-Pad4).
+U2 pin 4 conectado a unconnected-(U2-TD-Pad4).
+U2 pin 2 conectado a Net-(U2-CS).
+Agregar red Net-(U2-OC).
+U2 pin 3 conectado a Net-(U2-OC).
+BAR1 pin 10 conectado a LED_B00.
+Agregado U3 (huella 'Package_SO:TSSOP-8_4.4x3mm_P0.65mm').
+Indicador de referencia cambiado de REF** a U3.
+Valor U3 cambiado de TSSOP-8_4.4x3mm_P0.65mm a FS8205A.
+Asociación de símbolos U3 actualizada de  a /91003b96-7be5-4f2b-903e-085a5db0e590.
+Actualizar campos U3.
+Se actualizó el nombre de la hoja U3 a 'Raíz'.
+Se actualizó el archivo de hoja U3 a 'VW_ServMode_4taGen.kicad_sch'.
+U3 pin 2 conectado a TP_B-.
+U3 pin 6 conectado a Net-(R22-Pad1).
+U3 pin 3 conectado a TP_B-.
+Agregar red unconnected-(U3-D12-Pad8).
+U3 pin 8 conectado a unconnected-(U3-D12-Pad8).
+U3 pin 7 conectado a Net-(R22-Pad1).
+Agregar red unconnected-(U3-D12-Pad1).
+U3 pin 1 conectado a unconnected-(U3-D12-Pad1).
+U3 pin 4 conectado a Net-(U2-OD).
+U3 pin 5 conectado a Net-(U2-OC).
+BAR1 pin 9 conectado a LED_B00.
+Agregado U4 (huella 'Package_TO_SOT_SMD:SOT-223-3_TabPin2').
+Indicador de referencia cambiado de REF** a U4.
+Valor U4 cambiado de SOT-223-3_TabPin2 a AMS1117-3.3.
+Asociación de símbolos U4 actualizada de  a /5c86d1bd-9d56-4587-a225-ea3a82a270dd.
+Actualizar campos U4.
+Se actualizó el nombre de la hoja U4 a 'Raíz'.
+Se actualizó el archivo de hoja U4 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de U4 a 'SOT?223*TabPin2*'.
+U4 pin 3 conectado a VIN+.
+U4 pin 1 conectado a GND.
+U4 pin 2 conectado a +3V3.
+U4 pin 2 conectado a +3V3.
+Agregar red LED_B50.
+Agregado U5 (huella 'Package_QFP:LQFP-48_7x7mm_P0.5mm').
+Indicador de referencia cambiado de REF** a U5.
+Valor U5 cambiado de LQFP-48_7x7mm_P0.5mm a STM32F103C6Tx.
+Asociación de símbolos U5 actualizada de  a /8f5a9097-1e26-42d2-8d49-cb80a54f4528.
+Actualizar campos U5.
+Se actualizó el nombre de la hoja U5 a 'Raíz'.
+Se actualizó el archivo de hoja U5 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de U5 a 'LQFP*7x7mm*P0.5mm*'.
+U5 pin 15 conectado a SD_CLK.
+U5 pin 26 conectado a LED_OK.
+U5 pin 40 conectado a LED_F.
+U5 pin 32 conectado a USB_D-.
+U5 pin 14 conectado a LED_A.
+U5 pin 45 conectado a TP_#STDBY.
+Agregar red unconnected-(U5-PB5-Pad41).
+U5 pin 41 conectado a unconnected-(U5-PB5-Pad41).
+U5 pin 44 conectado a Net-(U5-BOOT0).
+U5 pin 11 conectado a LED_E.
+U5 pin 48 conectado a +3V3.
+U5 pin 28 conectado a PUSH_IN.
+U5 pin 24 conectado a +3V3.
+U5 pin 4 conectado a SD_CS.
+U5 pin 16 conectado a SD_MISO.
+U5 pin 3 conectado a LED_MODSERV_OFF.
+U5 pin 8 conectado a GND.
+U5 pin 13 conectado a LED_B.
+U5 pin 17 conectado a SD_MOSI.
+U5 pin 39 conectado a LED_G.
+U5 pin 35 conectado a GND.
+U5 pin 9 conectado a +3V3.
+U5 pin 29 conectado a LED_B75.
+U5 pin 5 conectado a OSC8M_OUT.
+U5 pin 42 conectado a CONN_SCL.
+U5 pin 31 conectado a LED_MODSERV_ON.
+U5 pin 19 conectado a DO_CONTROL3V3.
+U5 pin 30 conectado a LED_B99.
+U5 pin 36 conectado a +3V3.
+U5 pin 12 conectado a LED_D.
+U5 pin 7 conectado a #RESET.
+Agregar red unconnected-(U5-PA15-Pad38).
+U5 pin 38 conectado a unconnected-(U5-PA15-Pad38).
+U5 pin 43 conectado a CONN_SDA.
+U5 pin 23 conectado a GND.
+U5 pin 22 conectado a LED_B50.
+Agregar red unconnected-(U5-VBAT-Pad1).
+U5 pin 1 conectado a unconnected-(U5-VBAT-Pad1).
+U5 pin 34 conectado a DIO.
+U5 pin 2 conectado a PC13.
+U5 pin 33 conectado a USB_D+.
+U5 pin 46 conectado a TP_#CHRG.
+U5 pin 20 conectado a LED_B00.
+U5 pin 18 conectado a BAT_LVL.
+U5 pin 47 conectado a GND.
+U5 pin 37 conectado a DCLK.
+U5 pin 6 conectado a OSC8M_IN.
+U5 pin 10 conectado a LED_C.
+U5 pin 25 conectado a LED_ERROR.
+U5 pin 21 conectado a LED_B25.
+U5 pin 27 conectado a PUSH_OUT.
+BAR1 pin 5 conectado a LED_B50.
+Agregado Y1 (huella 'Crystal:Crystal_SMD_ECS_CSM3X-2Pin_7.6x4.1mm').
+Indicador de referencia cambiado de REF** a Y1.
+Valor Y1 cambiado de Crystal_SMD_ECS_CSM3X-2Pin_7.6x4.1mm a Crystal.
+Asociación de símbolos Y1 actualizada de  a /e978abef-94ca-4a7f-8f47-9aa49038d491.
+Actualizar campos Y1.
+Se actualizó el nombre de la hoja Y1 a 'Raíz'.
+Se actualizó el archivo de hoja Y1 a 'VW_ServMode_4taGen.kicad_sch'.
+Se actualizaron los filtros de huella de Y1 a 'Crystal*'.
+Y1 pin 2 conectado a OSC8M_OUT.
+Y1 pin 1 conectado a OSC8M_IN.
+Aviso: No se encontró red para el componente J13 pad A8 (no hay pin A8 en el símbolo).
+Aviso: No se encontró red para el componente J7 pad G2 (no hay pin G2 en el símbolo).
+Aviso: No se encontró red para el componente J13 pad B8 (no hay pin B8 en el símbolo).
+Aviso: No se encontró red para el componente J7 pad G1 (no hay pin G1 en el símbolo).
+Aviso: No se encontró red para el componente J7 pad G4 (no hay pin G4 en el símbolo).
+Aviso: No se encontró red para el componente J7 pad G3 (no hay pin G3 en el símbolo).
+
+
+Info: Número de avisos: 6, errores: 0.
