@@ -2470,156 +2470,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Device:D_Schottky"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 1.016)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "D"
-				(at 0 2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "D_Schottky"
-				(at 0 -2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Schottky diode"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "diode Schottky"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "TO-???* *_Diode_* *SingleDiode* D_*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "D_Schottky_0_1"
-				(polyline
-					(pts
-						(xy -1.905 0.635) (xy -1.905 1.27) (xy -1.27 1.27) (xy -1.27 -1.27) (xy -0.635 -1.27) (xy -0.635 -0.635)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 1.27) (xy 1.27 -1.27) (xy -1.27 0) (xy 1.27 1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 0) (xy -1.27 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "D_Schottky_1_1"
-				(pin passive line
-					(at -3.81 0 0)
-					(length 2.54)
-					(name "K"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 3.81 0 180)
-					(length 2.54)
-					(name "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Device:LED"
 			(pin_numbers
 				(hide yes)
@@ -2784,284 +2634,6 @@
 						)
 					)
 					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "Device:LED_Dual_KAKA"
-			(pin_names
-				(offset 0)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "D"
-				(at 0 5.715 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "LED_Dual_KAKA"
-				(at 0 -6.35 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0.762 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0.762 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Dual LED, cathodes on pins 1 and 3"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "LED diode bicolor dual"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "LED* LED_SMD:* LED_THT:*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "LED_Dual_KAKA_0_1"
-				(polyline
-					(pts
-						(xy -5.08 2.54) (xy 2.032 2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -5.08 -2.54) (xy 2.032 -2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.27 3.81) (xy -1.27 1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.27 -1.27) (xy -1.27 -3.81)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 0 0)
-					(radius 4.572)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 3.81) (xy 1.27 1.27) (xy -1.27 2.54) (xy 1.27 3.81)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 -1.27) (xy 1.27 -3.81) (xy -1.27 -2.54) (xy 1.27 -1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.032 5.08) (xy 3.556 6.604) (xy 2.794 6.604) (xy 3.556 6.604) (xy 3.556 5.842)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 3.302 4.064) (xy 4.826 5.588) (xy 4.064 5.588) (xy 4.826 5.588) (xy 4.826 4.826)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 3.81 2.54) (xy 1.905 2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 3.81 -2.54) (xy 1.905 -2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "LED_Dual_KAKA_1_1"
-				(pin input line
-					(at -7.62 2.54 0)
-					(length 3.048)
-					(name "K1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -7.62 -2.54 0)
-					(length 3.048)
-					(name "K2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at 7.62 2.54 180)
-					(length 3.81)
-					(name "A1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at 7.62 -2.54 180)
-					(length 3.81)
-					(name "A2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -3494,12 +3066,12 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "JCU_LED_SMD:A-SP1102DR6GHC-C01-2C"
+		(symbol "JCU_LED_SMD:12-22/BHR6C-A01/2C"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
 			(property "Reference" "D"
-				(at 0 5.588 0)
+				(at 0 7.112 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -3514,8 +3086,8 @@
 					)
 				)
 			)
-			(property "Footprint" "JCU_LED_SMD:1204 DUAL LED"
-				(at 0 0 0)
+			(property "Footprint" "JCU_LED_SMD:SMD,2x3mm"
+				(at 0 -7.366 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -3541,7 +3113,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "A-SP1102DR6GHC-C01-2C_1_1"
+			(symbol "12-22/BHR6C-A01/2C_1_1"
 				(polyline
 					(pts
 						(xy -1.27 3.81) (xy -1.27 1.27) (xy 1.27 2.54) (xy -1.27 3.81)
@@ -3646,7 +3218,7 @@
 				(pin passive line
 					(at 7.62 2.54 180)
 					(length 2.54)
-					(name "G"
+					(name "R"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -3664,7 +3236,213 @@
 				(pin passive line
 					(at 7.62 -2.54 180)
 					(length 2.54)
-					(name "R"
+					(name "B"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "JCU_LED_SMD:A-SC6302R6AGHC-A03-2T"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 0 6.604 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "JCU_LED_SMD:SMD-4P,3.5x2.8mm"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "A-SC6302R6AGHC-A03-2T_1_1"
+				(rectangle
+					(start -5.08 5.08)
+					(end 5.08 -5.08)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 3.81) (xy -1.27 1.27) (xy 1.27 2.54) (xy -1.27 3.81)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 2.54) (xy -5.08 2.54) (xy -2.54 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -2.54) (xy -5.08 -2.54) (xy -2.54 -2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 2.54) (xy 5.08 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -1.27) (xy 1.27 -3.81) (xy -1.27 -2.54) (xy 1.27 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -2.54) (xy 5.08 -2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -7.62 2.54 0)
+					(length 2.54)
+					(name "AR"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -7.62 -2.54 0)
+					(length 2.54)
+					(name "KG"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 7.62 2.54 180)
+					(length 2.54)
+					(name "KR"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 7.62 -2.54 180)
+					(length 2.54)
+					(name "AG"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7164,7 +6942,7 @@
 	)
 	(wire
 		(pts
-			(xy 289.56 39.37) (xy 289.56 41.91)
+			(xy 289.56 59.69) (xy 289.56 57.15)
 		)
 		(stroke
 			(width 0)
@@ -8294,7 +8072,7 @@
 	)
 	(wire
 		(pts
-			(xy 270.51 251.46) (xy 270.51 252.73)
+			(xy 270.51 245.11) (xy 270.51 252.73)
 		)
 		(stroke
 			(width 0)
@@ -8604,7 +8382,7 @@
 	)
 	(wire
 		(pts
-			(xy 289.56 66.04) (xy 289.56 67.31)
+			(xy 289.56 33.02) (xy 289.56 31.75)
 		)
 		(stroke
 			(width 0)
@@ -9194,7 +8972,7 @@
 	)
 	(wire
 		(pts
-			(xy 270.51 241.3) (xy 270.51 243.84)
+			(xy 270.51 231.14) (xy 270.51 237.49)
 		)
 		(stroke
 			(width 0)
@@ -9664,16 +9442,6 @@
 	)
 	(wire
 		(pts
-			(xy 270.51 231.14) (xy 270.51 233.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bdcb06de-85b9-4947-9856-a3abd1a23304")
-	)
-	(wire
-		(pts
 			(xy 40.64 261.62) (xy 39.37 261.62)
 		)
 		(stroke
@@ -9844,7 +9612,7 @@
 	)
 	(wire
 		(pts
-			(xy 289.56 57.15) (xy 289.56 58.42)
+			(xy 289.56 41.91) (xy 289.56 40.64)
 		)
 		(stroke
 			(width 0)
@@ -11186,22 +10954,22 @@
 	)
 	(global_label "LED_ERROR"
 		(shape input)
-		(at 289.56 39.37 90)
+		(at 289.56 59.69 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "56eafb1a-a412-43f0-95d9-4fd05865c2bb")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 289.56 25.6806 90)
+			(at 289.56 73.3794 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -12373,82 +12141,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:LED_Dual_KAKA")
-		(at 292.1 49.53 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "03b24703-9c49-471c-8ab3-16b022b7019f")
-		(property "Reference" "D9"
-			(at 298.45 48.3869 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "LED_Dual_KAKA"
-			(at 298.45 50.9269 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "JCU_LED_SMD:0805 DUAL LED"
-			(at 292.1 48.768 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 292.1 48.768 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Dual LED, cathodes on pins 1 and 3"
-			(at 292.1 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "4"
-			(uuid "87bb92b5-3fbc-4483-9211-b891dc94cce2")
-		)
-		(pin "1"
-			(uuid "8ff03617-708d-47c7-ae98-f99c780ab924")
-		)
-		(pin "3"
-			(uuid "7c1ffb1d-c787-4059-b27b-dcf96ca9a9b1")
-		)
-		(pin "2"
-			(uuid "12c7559d-a8df-4e11-8869-feafb26c36f2")
-		)
-		(instances
-			(project ""
-				(path "/3447a7b2-5141-4527-95aa-e0cbd92f7e6f"
-					(reference "D9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 40.64 109.22 0)
 		(unit 1)
@@ -12758,6 +12450,15 @@
 			)
 		)
 		(property "Description" "DISPLAY 7 SEGMENTS common A."
+			(at 180.34 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part # " "C8092"
 			(at 180.34 50.8 0)
 			(effects
 				(font
@@ -13294,7 +12995,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "NCP115"
 			(at 81.28 191.77 0)
 			(effects
 				(font
@@ -14643,7 +14344,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
+		(property "Footprint" "LED_THT:LED_Rectangular_W5.0mm_H2.0mm"
 			(at 233.68 49.53 0)
 			(effects
 				(font
@@ -15320,7 +15021,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
+		(property "Footprint" "LED_THT:LED_Rectangular_W5.0mm_H2.0mm"
 			(at 248.92 49.53 0)
 			(effects
 				(font
@@ -16057,76 +15758,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:D_Schottky")
-		(at 270.51 237.49 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5802aa24-5b64-49f5-a1d6-186278346e6e")
-		(property "Reference" "D7"
-			(at 273.05 235.9024 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "D_Schottky"
-			(at 273.05 238.4424 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 270.51 237.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 270.51 237.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Schottky diode"
-			(at 270.51 237.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "866ac8b6-5564-4493-96b6-5bcc84649075")
-		)
-		(pin "2"
-			(uuid "4f8a1aa5-e932-46fd-85cc-22399f9e130c")
-		)
-		(instances
-			(project ""
-				(path "/3447a7b2-5141-4527-95aa-e0cbd92f7e6f"
-					(reference "D7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:LED")
 		(at 241.3 49.53 90)
 		(unit 1)
@@ -16151,7 +15782,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
+		(property "Footprint" "LED_THT:LED_Rectangular_W5.0mm_H2.0mm"
 			(at 241.3 49.53 0)
 			(effects
 				(font
@@ -17221,77 +16852,6 @@
 			(project "VW_ServMode_4taGen"
 				(path "/3447a7b2-5141-4527-95aa-e0cbd92f7e6f"
 					(reference "R7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "JCU_LED_SMD:A-SP1102DR6GHC-C01-2C")
-		(at 173.99 242.57 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "788ba400-afd6-410f-8efe-a62f6fb0163c")
-		(property "Reference" "D1"
-			(at 173.99 233.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "DUAL LED"
-			(at 173.99 236.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "JCU_LED_SMD:1204 DUAL LED"
-			(at 173.99 242.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 173.99 242.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 173.99 242.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "87bd024b-9549-4f59-847c-a3cead3aa5e9")
-		)
-		(pin "2"
-			(uuid "f23d3cfd-6a83-4f60-8a95-dca8bf3fb644")
-		)
-		(pin "3"
-			(uuid "418475b4-484e-4e9d-b01b-0c5cf7d4bf96")
-		)
-		(instances
-			(project ""
-				(path "/3447a7b2-5141-4527-95aa-e0cbd92f7e6f"
-					(reference "D1")
 					(unit 1)
 				)
 			)
@@ -19154,7 +18714,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
+		(property "Footprint" "LED_THT:LED_Rectangular_W5.0mm_H2.0mm"
 			(at 256.54 49.53 0)
 			(effects
 				(font
@@ -19531,6 +19091,82 @@
 			(project "VW_ServMode_4taGen"
 				(path "/3447a7b2-5141-4527-95aa-e0cbd92f7e6f"
 					(reference "R9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "JCU_LED_SMD:A-SC6302R6AGHC-A03-2T")
+		(at 292.1 49.53 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a8108b83-5082-4bf3-bf31-737e8c6797e2")
+		(property "Reference" "D7"
+			(at 298.45 48.8949 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "LED Dual Independient"
+			(at 298.45 50.8 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "JCU_LED_SMD:SMD-4P,3.5x2.8mm"
+			(at 292.1 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 292.1 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 292.1 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "c913eceb-9690-41d4-9940-4e7c7391426d")
+		)
+		(pin "2"
+			(uuid "f5c1b8eb-5b96-46c4-a36a-fba00e289f51")
+		)
+		(pin "1"
+			(uuid "61c867b8-c548-4294-8cda-7adb317c8af8")
+		)
+		(pin "3"
+			(uuid "2e5c40cf-1188-47e6-b2ab-b5b8434e471a")
+		)
+		(instances
+			(project ""
+				(path "/3447a7b2-5141-4527-95aa-e0cbd92f7e6f"
+					(reference "D7")
 					(unit 1)
 				)
 			)
@@ -20957,6 +20593,77 @@
 		)
 	)
 	(symbol
+		(lib_id "JCU_LED_SMD:12-22/BHR6C-A01/2C")
+		(at 173.99 242.57 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c2182dcf-4030-4535-8ba8-0db442c8e08e")
+		(property "Reference" "D1"
+			(at 173.99 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED Dual Common Anode"
+			(at 173.99 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "JCU_LED_SMD:SMD,2x3mm"
+			(at 173.99 249.936 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 173.99 242.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 173.99 242.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "76baeec0-b45d-456f-bae8-807a64bf86c9")
+		)
+		(pin "1"
+			(uuid "2de03535-2c88-42aa-b986-12bd049a5aa4")
+		)
+		(pin "3"
+			(uuid "0aa9b763-1fa4-424d-a154-d9f94a366d1c")
+		)
+		(instances
+			(project ""
+				(path "/3447a7b2-5141-4527-95aa-e0cbd92f7e6f"
+					(reference "D1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Transistor_FET:IRLML6402")
 		(at 347.98 130.81 90)
 		(unit 1)
@@ -21373,7 +21080,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 289.56 67.31 0)
+		(at 289.56 31.75 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21382,7 +21089,7 @@
 		(fields_autoplaced yes)
 		(uuid "c77fa78b-d47e-4ddc-b32d-59f0761d791c")
 		(property "Reference" "#PWR049"
-			(at 289.56 73.66 0)
+			(at 289.56 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21391,7 +21098,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 289.56 72.39 0)
+			(at 289.56 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21399,7 +21106,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 289.56 67.31 0)
+			(at 289.56 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21408,7 +21115,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 289.56 67.31 0)
+			(at 289.56 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21417,7 +21124,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 289.56 67.31 0)
+			(at 289.56 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21911,7 +21618,7 @@
 	)
 	(symbol
 		(lib_id "Device:Battery_Cell")
-		(at 270.51 248.92 0)
+		(at 270.51 242.57 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21920,7 +21627,7 @@
 		(fields_autoplaced yes)
 		(uuid "d395efa5-1d13-4880-9dff-ec1d515442e6")
 		(property "Reference" "BT1"
-			(at 274.32 245.8084 0)
+			(at 274.32 239.4584 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21929,7 +21636,7 @@
 			)
 		)
 		(property "Value" "Battery"
-			(at 274.32 248.3484 0)
+			(at 274.32 241.9984 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21938,7 +21645,7 @@
 			)
 		)
 		(property "Footprint" "Battery:BatteryHolder_Keystone_1042_1x18650"
-			(at 270.51 247.396 90)
+			(at 270.51 241.046 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21947,7 +21654,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 270.51 247.396 90)
+			(at 270.51 241.046 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21956,7 +21663,16 @@
 			)
 		)
 		(property "Description" "Single-cell battery"
-			(at 270.51 248.92 0)
+			(at 270.51 242.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2988620"
+			(at 270.51 242.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22004,7 +21720,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
+		(property "Footprint" "LED_THT:LED_Rectangular_W5.0mm_H2.0mm"
 			(at 264.16 49.53 0)
 			(effects
 				(font
@@ -22849,7 +22565,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 289.56 62.23 0)
+		(at 289.56 36.83 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22857,7 +22573,7 @@
 		(dnp no)
 		(uuid "f145657c-4cc1-4e6d-8ab3-423a8c355c15")
 		(property "Reference" "R24"
-			(at 285.75 60.96 0)
+			(at 285.75 38.354 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22865,7 +22581,7 @@
 			)
 		)
 		(property "Value" "R330"
-			(at 285.242 63.5 0)
+			(at 285.242 35.814 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22873,7 +22589,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 287.782 62.23 90)
+			(at 291.338 36.83 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22882,7 +22598,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 289.56 62.23 0)
+			(at 289.56 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22891,7 +22607,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 289.56 62.23 0)
+			(at 289.56 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
